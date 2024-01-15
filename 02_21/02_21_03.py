@@ -1,0 +1,7 @@
+n = input()
+lst1 = n.split()
+lst1 = list(map(int, lst1))
+lst1 = list(map(abs, lst1))
+print(lst1[::-1])
+lst1.reverse()
+print(lst1)
