@@ -19,3 +19,4 @@ if maxs > 0:
     print(tv_a, tv_b)
 else:
     print("0 0")
+

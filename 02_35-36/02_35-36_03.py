@@ -17,3 +17,4 @@ for i in matrix:
 print(f"{count:.4f}")
 for i in black:
     print(*i)
+

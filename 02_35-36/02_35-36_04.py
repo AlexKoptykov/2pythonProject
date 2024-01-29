@@ -6,3 +6,4 @@ for i in range(n):
 m = int(input("Введите кол-во запросов: "))
 for i in range(m):
     count, f = input().split()
+
