@@ -1,6 +1,5 @@
 def f(*args, **kwargs):
     while kwargs:
-
     return args
 
 
